@@ -114,10 +114,10 @@ Open your browser and navigate to `http://127.0.0.1:5000/`.
 *If you find this repository useful, please give it a star\! ⭐*
 
 ```
-5.  **Author Section:** Clearly branded it with your name and links.
 
 ### **Action Items for you:**
 1.  **Screenshots:** Take 2 screenshots of your running app. Name them `screenshot1.png` and `screenshot2.png`, upload them to your GitHub repo, and update the links in the code above.
 2.  **AWS Link:** Paste your actual AWS link where it says `(Insert your AWS link here)`.
 3.  **Requirements:** Ensure your `requirements.txt` is clean (the one in your text looked good, but make sure `gunicorn` is there if you are deploying to cloud).
 ```
+
